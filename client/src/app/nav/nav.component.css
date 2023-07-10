@@ -5,3 +5,14 @@ a{
 .dropdown-toggle, .dropdown-menu{
     cursor: pointer;
 }
+
+.ml-2{
+    margin-left: 5px;
+}
+
+img{
+    max-height: 40px;
+    border: 2px solid #fff;
+    display: inline;
+    border-radius: 50%;
+}
